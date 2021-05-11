@@ -4,13 +4,19 @@ Bu repo kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo . İçerisind
 README dosyası bir adet de index.html barındırıyor.
 ## Installation
 öncelikle projeyi klonlayalım (buraya sizin reponuzdan aldığınız link gelecek)
- https://github.com/yunusssahin/kodluyoruzilkrepo.git
+
+'''
+git clone https://github.com/yunusssahin/kodluyoruzilkrepo.git
+'''
+ 
  # **Usage**
  Projeyi tamamladıktan sonra [visual studio code](https://code.visualstudio.com/) programında açınız.
  Linux için;
-
+ 
+'''
  cd kodluyoruzilkrepo 
  code .
+'''
 
 # **Contributing**
 Pull requestler kabuledillir. Büyük değişikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız
